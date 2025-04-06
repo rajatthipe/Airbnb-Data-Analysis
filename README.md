@@ -1,6 +1,6 @@
 # 🏡 Airbnb Data Analysis
 
-This repository contains a comprehensive analysis of Airbnb listings data aimed at uncovering insights to improve host profitability, optimize pricing strategies, and enhance guest satisfaction.
+This repository contains a comprehensive analysis of Airbnb listings data aimed at uncovering insights to improve host profitability, optimize pricing strategies, and enhance guest satisfaction over the period of time.
 
 ## 📊 Project Overview
 
